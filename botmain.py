@@ -23,7 +23,7 @@ intents = discord.Intents.default()
 intents.members = True
 intents.presences = True
 
-token = "NjkyMjYzNDI4MDY4NDc0OTMw.XxnsEA.Ix_nSvIgSlqDP5u2YMVD9QvWKZg"
+token = "erk"
 client = commands.Bot(command_prefix='.', intents=intents)
 
 
